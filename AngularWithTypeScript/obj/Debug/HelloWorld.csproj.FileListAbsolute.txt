@@ -1,0 +1,6 @@
+C:\Classes\AngularWithTypeScript\FromScratch\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\Classes\AngularWithTypeScript\FromScratch\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Classes\AngularWithTypeScript\FromScratch\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Classes\AngularWithTypeScript\FromScratch\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Classes\AngularWithTypeScript\FromScratch\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Classes\AngularWithTypeScript\FromScratch\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
